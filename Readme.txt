@@ -2,7 +2,7 @@
 
 Dataset: https://www.kaggle.com/datasets/vic006/beginner
 
-Model: https://hkustconnect-my.sharepoint.com/:u:/g/personal/khleebi_connect_ust_hk/EYjST-XbZs5GmEzGpQNpqJcBSygfUvOkJAyNSfZQskAIYg?e=ubqSd8
+Model: https://hkustconnect-my.sharepoint.com/:u:/g/personal/khleebi_connect_ust_hk/EYjST-XbZs5GmEzGpQNpqJcBPkwVYvVZPTbG--0tuuiqIQ?e=rHfBzf
 
 
 Structure:
